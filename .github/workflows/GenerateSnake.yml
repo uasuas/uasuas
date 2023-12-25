@@ -1,4 +1,4 @@
-name: generate animation
+ame: generate animation
 
 on:
   # run automatically every 24 hours
@@ -29,8 +29,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-user-contribution.svg
-            dist/github-user-contribution-dark.svg?palette=github-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.SAMPLE_SECRETS }}
           
