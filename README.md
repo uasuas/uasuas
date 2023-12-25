@@ -1,9 +1,5 @@
 ### Hi there 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/uasuas/uasuas/blob/main/github-user-contribution.dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/uasuas/uasuas/blob/main/github-user-contribution.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/uasuas/uasuas/blob/main/github-user-contribution.svg">
-</picture>
+![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
 
 ![snake](https://github.com/uasuas/uasuas/blob/main/github-user-contribution.svg)
 
