@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./img/snake.svg
-            ./img/snake-dark.svg?palette=github-dark
+            ./img/github-user-contribution.svg
+            ./img/github-user-contribution.dark.svg?palette=github-dark
       - name: Push to GitHub
         uses: EndBug/add-and-commit@main
         with:
