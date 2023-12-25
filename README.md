@@ -5,9 +5,9 @@
   <img alt="github contribution grid snake animation" src="https://github.com/uasuas/uasuas/blob/main/github-user-contribution.svg">
 </picture>
 
-![snake](img/https://github.com/uasuas/uasuas/blob/main/github-user-contribution.svg)
+![snake](https://github.com/uasuas/uasuas/blob/main/github-user-contribution.svg)
 
-![snake](img/https://github.com/uasuas/uasuas/blob/main/github-user-contribution.dark.svg)
+![snake](https://github.com/uasuas/uasuas/blob/main/github-user-contribution.dark.svg)
 <!--
 **uasuas/uasuas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
