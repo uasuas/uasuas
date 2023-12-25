@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/uasuas/uasuas/blob/main/github-user-contribution.dark.svg)
+![](https://raw.githubusercontent.com/uasuas/uasuas/output/github-contribution-grid-snake.svg)
 
 ![snake](https://github.com/uasuas/uasuas/blob/main/github-user-contribution.svg)
 
