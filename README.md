@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/uasuas/uasuas/output/github-contribution-grid-snake-dark.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=●●●&theme=▲▲▲&layout=★★★)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs?uasuas=yukimura-manase)
 
 <!--
 **uasuas/uasuas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
